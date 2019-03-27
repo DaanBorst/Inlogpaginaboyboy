@@ -3,6 +3,8 @@ $servername = "localhost";
 $username = "username";
 $password = "password";
 
+Poopie 
+  This code is kinda shitty
 //Create connection
 $conn = new mysqli($servername,$username,$password);
 
